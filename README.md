@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinaSaid8
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angularjs
+- 🌱 I’m currently training at ITI (Information Technology Istitute)
 - 📫 How to reach me dinasaidelashqar@gmail.com
 
 <!---
