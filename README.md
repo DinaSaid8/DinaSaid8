@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🌱 I graduated ** from ITI **
-- 
+
 - 💬 Ask me about **JavaScript, Reactjs , Nodejs**
 
 - 📫 How to reach me **dinasaidelashqar@gmail.com**
