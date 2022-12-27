@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dina Said</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **at ITI**
-
+- 🌱 I graduated ** from ITI **
+- 
 - 💬 Ask me about **JavaScript, Reactjs , Nodejs**
 
 - 📫 How to reach me **dinasaidelashqar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/103rEebhlhEmmctxcUuOgbfTtPa1EKzuU/view?usp=sharing](https://drive.google.com/file/d/1esw8XL2WVmEviTtuO4GIaDK9G56Npy03/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1esw8XL2WVmEviTtuO4GIaDK9G56Npy03/view?usp=sharing](https://drive.google.com/file/d/1yqWhPMpZlND5nk0CI-ArG6pMxSnVpTdU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
